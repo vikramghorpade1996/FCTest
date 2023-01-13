@@ -1,0 +1,17 @@
+2023-01-12 22:36:38,260  INFO [main] Base:13 - reading property file for a key
+2023-01-12 22:36:38,265  INFO [main] Base:23 - key value found ischrome
+2023-01-12 22:36:38,265  INFO [main] Base:34 - initializing browser
+2023-01-12 22:36:40,864  INFO [main] Base:13 - reading property file for a key
+2023-01-12 22:36:40,866  INFO [main] Base:23 - key value found ishttps://www.trello.com/
+2023-01-12 22:36:43,080  INFO [main] Base:13 - reading property file for a key
+2023-01-12 22:36:43,087  INFO [main] Base:23 - key value found isvikramghorpade0109@gmail.com
+2023-01-12 22:36:43,087  INFO [main] Base:13 - reading property file for a key
+2023-01-12 22:36:43,088  INFO [main] Base:23 - key value found isTest@123
+2023-01-12 22:36:49,986  INFO [main] Base:13 - reading property file for a key
+2023-01-12 22:36:49,987  INFO [main] Base:23 - key value found istest
+2023-01-12 22:36:49,987  INFO [main] Base:13 - reading property file for a key
+2023-01-12 22:36:49,988  INFO [main] Base:23 - key value found isA
+2023-01-12 22:36:49,989  INFO [main] Base:13 - reading property file for a key
+2023-01-12 22:36:49,989  INFO [main] Base:23 - key value found isB
+2023-01-12 22:36:49,989  INFO [main] Base:13 - reading property file for a key
+2023-01-12 22:36:49,992  INFO [main] Base:23 - key value found istestcard
